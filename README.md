@@ -17,7 +17,6 @@
  ![extending-a-theme](/03.png)
  ![extending-a-theme](/04.png)
  ![extending-a-theme](/05.png)
- ![extending-a-theme](/06.png)
  ![extending-a-theme](/07.png)
  ![extending-a-theme](/08.png)
  ![extending-a-theme](/09.png)
